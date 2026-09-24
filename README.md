@@ -13,7 +13,7 @@ Here, you'll find:
 
 I’m always exploring better ways to **analyze, visualize, and engineer data** to support smarter business decisions.
 
-**Let’s connect, learn, and build — one repo at a time.** 📊💻
+**Let’s connect, learn, and build one repo at a time.** 📊💻
 
 ## 🌐 Socials
 
